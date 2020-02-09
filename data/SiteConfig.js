@@ -5,7 +5,7 @@ const config = {
   siteTitleAlt: "Round angular blog sharing daily life and what else", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://roundangular.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
+  pathPrefix: "/blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Trial Gatby blog and sharing information I found recently.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
@@ -80,28 +80,51 @@ const config = {
   ],
   // Use for navigation
   navTitle: "Round Angular",
-  navLinks: [
+    navLinks: [
+    { label: "Post", url: "/post" },
+    { label: "Photo", url: "/photo" },
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
+    { label: "Search", url: "/search" },
   ],
   // Use for footer
-  socialLinks: [
-    { 
-      label: "Codepen", 
-      url: "https://codepen.io/yangnb", 
-      iconClassName: "fab codepen" 
-    },
-    { 
-      label: "GitHub",
-      url: "https://github.com/nadaegyun",
-      iconClassName: "fab github"
-    }
+    socialLinks: [
+      { 
+      label: "Facebook", 
+      url: "https://facebook.com/nadaegyun", 
+      iconClassName: "fab facebook-f" 
+      },
+      {
+      label: "Twitter",
+      url: "https://twitter.com",
+      iconClassName: "fab twitter"
+      },
+      {
+      label: "Linkedin",
+      url: "https://linkedin.com/",
+      iconClassName: "fab linkedin-in"
+      },
+      {
+      label: "Instagram",
+      url: "https://Instagram.com/",
+          iconClassName: "fab instagram"
+      },
+      {
+      label: "Youtube",
+      url: "https://youtube.com",
+      iconClassName: "fab youtube"
+       },
+       {
+          label: "GitHub",
+          url: "https://github.com/nadaegyun",
+          iconClassName: "fab github"
+        }
   ],
   footerLinks: [
     { label: "Home", url: "/" },
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
-    { label: "Terms of Use", url: "/terms" },
+    { label: "Release note", url: "/release" },
     { label: "Privacy Policy", url: "/privacy" },
     { label: "Sitemap", url: "https://github.com/nadaegyun/sitemap.xml" },
   ],

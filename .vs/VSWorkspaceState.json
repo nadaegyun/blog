@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\src",
-    "\\src\\cms\\preview-templates"
+    "\\content",
+    "\\content\\posts",
+    "\\data"
   ],
-  "SelectedNode": "\\src\\components",
+  "SelectedNode": "\\data\\SiteConfig.js",
   "PreviewInSolutionExplorer": false
 }
