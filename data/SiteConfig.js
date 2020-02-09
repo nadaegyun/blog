@@ -1,12 +1,12 @@
 const config = {
   // Site info
-  siteTitle: "Gatsby Blog", // Site title.
-  siteTitleShort: "GB Template", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Gatsby Blog", // Alternative site title for SEO.
+  siteTitle: "Round Angular", // Site title.
+  siteTitleShort: "Round Angular", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: "Round angular blog sharing daily life and what else", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://yangmuzi.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://roundangular.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "A GatsbyJS Blog Template for blogging purpose.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Trial Gatby blog and sharing information I found recently.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
   siteFBAppID: "399626517562189", // FB Application ID for using app insights
@@ -63,23 +63,23 @@ const config = {
     // }
   ],
   // Use for user info
-  userName: "Lam Pham", // Username to display in the author segment.
-  userEmail: "yangnianbing@gmail", // Email used for RSS feed"s author segment
-  userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "China Hubei Wuhan", // User location to display in the author segment.
+  userName: "Daegyun", // Username to display in the author segment.
+  userEmail: "daegyun.na@gmail.com", // Email used for RSS feed"s author segment
+  userTwitter: "@NaDaegyun", // Optionally renders "Follow Me" in the UserInfo segment.
+  userLocation: "Yongin, Korea", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
-    "Software Engineer, Web Developer, JavaScript Lover.", // User description to display in the author segment.
+    "Project Manager in automotive, Lover to learn new", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
       label: "Website",
-      url: "https://github.com/yangnianbing",
+      url: "https://github.com/nadaegyun",
       iconClassName: "fas globe"
     }
   ],
   // Use for navigation
-  navTitle: "GB Template",
+  navTitle: "Round Angular",
   navLinks: [
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
@@ -93,7 +93,7 @@ const config = {
     },
     { 
       label: "GitHub",
-      url: "https://github.com/yangnianbing",
+      url: "https://github.com/nadaegyun",
       iconClassName: "fab github"
     }
   ],
@@ -103,9 +103,9 @@ const config = {
     { label: "Contact", url: "/contact" },
     { label: "Terms of Use", url: "/terms" },
     { label: "Privacy Policy", url: "/privacy" },
-    { label: "Sitemap", url: "https://yangmuzi.com/sitemap.xml" },
+    { label: "Sitemap", url: "https://github.com/nadaegyun/sitemap.xml" },
   ],
-  copyright: "Copyright © 2019 Lam Pham. Unless otherwise noted, all code MIT license.",
+  copyright: "Copyright © 2020 Daegyun Na. Unless otherwise noted, all code MIT license.",
   // Use for manifest
   themeColor: "#2196F3", // Used for setting manifest and progress theme colors.
   backgroundColor: "#FFF", // Used for setting manifest background color.
