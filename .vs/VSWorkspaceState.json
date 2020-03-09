@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\content",
+    "\\content\\pages",
+    "\\content\\posts",
+    "\\content\\styles",
+    "\\data",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\Footer",
-    "\\src\\components\\Icons",
-    "\\src\\components\\Page",
-    "\\src\\components\\Post",
-    "\\src\\components\\PostListing",
-    "\\src\\pages",
-    "\\src\\pages\\blog"
+    "\\src\\cms",
+    "\\src\\cms\\preview-templates",
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\components\\Post\\PostTags.jsx",
+  "SelectedNode": "\\src\\components\\Post\\PostDate.jsx",
   "PreviewInSolutionExplorer": false
 }
