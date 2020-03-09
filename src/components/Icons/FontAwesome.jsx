@@ -3,11 +3,10 @@ import {
   faCodepen,
   faFreeCodeCamp,
   faGithub,
-  faFacebookSquare,
-  faLinkedin,
-  faTwitterSquare,
+  faFacebookF,
+  faLinkedinIn,
+  faTwitter,
   faPinterest,
-  faInstagram,
   faYoutube
 } from "@fortawesome/free-brands-svg-icons";
 import {
@@ -24,10 +23,9 @@ library.add(
   faCodepen,
   faFreeCodeCamp,
   faGithub,
-  faFacebookSquare,
-  faInstagram,
-  faLinkedin,
-  faTwitterSquare,
+  faFacebookF,
+  faLinkedinIn,
+  faTwitter,
   faPinterest,
   faYoutube,
   faRss,

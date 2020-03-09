@@ -92,22 +92,22 @@ const config = {
       { 
       label: "Facebook", 
       url: "https://facebook.com/nadaegyun", 
-            iconClassName: "fab facebook-square" 
+      iconClassName: "fab facebook-f" 
       },
       {
       label: "Twitter",
       url: "https://twitter.com",
-      iconClassName: "fab twitter-square"
+      iconClassName: "fab twitter"
       },
       {
       label: "Linkedin",
       url: "https://linkedin.com/",
-      iconClassName: "fab linkedin"
+      iconClassName: "fab linkedin-in"
       },
       {
       label: "Instagram",
-      url: "https://www.instagram.com",
-      iconClassName: "fab instagram"
+      url: "https://Instagram.com/",
+          iconClassName: "fab instagram"
       },
       {
       label: "Youtube",
@@ -115,9 +115,9 @@ const config = {
       iconClassName: "fab youtube"
        },
        {
-        label: "GitHub",
-        url: "https://github.com/nadaegyun",
-        iconClassName: "fab github"
+          label: "GitHub",
+          url: "https://github.com/nadaegyun",
+          iconClassName: "fab github"
         }
   ],
   footerLinks: [
