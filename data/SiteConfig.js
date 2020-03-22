@@ -4,16 +4,16 @@ const config = {
   siteTitleShort: "Round Angular", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Round angular blog sharing daily life and what else", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024x1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://roundangular.github.io", // Domain of your website without pathPrefix.
+    siteUrl: "https://daegyun.netlify.com/", // Domain of your website without pathPrefix.
   pathPrefix: "/blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Trial Gatby blog and sharing information I found recently.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteLang: "en",
-  siteFBAppID: "399626517562189", // FB Application ID for using app insights
-  googleAnalyticsID: "UA-145861364-1", // GA tracking ID.
+  siteFBAppID: "", // FB Application ID for using app insights
+  googleAnalyticsID: "UUA-134200534-1", // GA tracking ID.
   postDefaultCategoryID: "", // Default category for posts.
   // Common for tag, category pages and widget
-  numberLatestPost: 8,
+  numberLatestPost: 6,
   postsPerPage: 6,
   // Use for post
   dateFromFormat: "YYYY-MM-DDTHH:mm:ssZ", // Date format used in the frontmatter.
@@ -23,13 +23,13 @@ const config = {
   postOnDate: "Posted on",
   // Use for comment
   lazyLoadComments: false,
-  disqusShortname: "yangnb", // Disqus shortname.
+    disqusShortname: "daegyun", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
   numberLoadmore: 6,
   btnLoadmore: "Load more",
   homeHasLoadmore: true,
-  homeHasThumbnail: false,
+  homeHasThumbnail: true,
   homeHeader: "Home",
   // Use for page
   pathPrefixPagination: "/page", // Prefix path for pagination
@@ -52,7 +52,7 @@ const config = {
   // Use for Google custom search
   searchWidgetTitle: "Looking for?",
   searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "008548374781244864787:9ybvtnkbt7o",
+  searchEngineID: "",
   hasSearch: false,
   // Use for links widget
   sidebarSticky: true,
@@ -91,34 +91,34 @@ const config = {
     socialLinks: [
       { 
       label: "Facebook", 
-      url: "https://facebook.com/nadaegyun", 
-      iconClassName: "fab facebook-f" 
+      url: "https://www.facebook.com/daegyun.na.5", 
+      iconClassName: "fab facebook-square" 
       },
       {
       label: "Twitter",
-      url: "https://twitter.com",
-      iconClassName: "fab twitter"
+      url: "https://twitter.com/roundangular",
+      iconClassName: "fab twitter-square"
       },
       {
       label: "Linkedin",
-      url: "https://linkedin.com/",
-      iconClassName: "fab linkedin-in"
+      url: "https://www.linkedin.com/in/daegyun-na-86920993/",
+      iconClassName: "fab linkedin"
       },
       {
       label: "Instagram",
-      url: "https://Instagram.com/",
-          iconClassName: "fab instagram"
+      url: "https://www.instagram.com/daegyun_na/",
+      iconClassName: "fab instagram-square"
       },
       {
       label: "Youtube",
-      url: "https://youtube.com",
-      iconClassName: "fab youtube"
-       },
-       {
-          label: "GitHub",
-          url: "https://github.com/nadaegyun",
-          iconClassName: "fab github"
-        }
+      url: "https://www.youtube.com/channel/UC0yValXPtImjTQ8_6Z0Ha4Q?view_as=subscriber",
+      iconClassName: "fab youtube-square"
+      },
+      {
+      label: "GitHub",
+      url: "https://github.com/nadaegyun",
+      iconClassName: "fab github-square"
+      }
   ],
   footerLinks: [
     { label: "Home", url: "/" },

@@ -2,12 +2,13 @@ import { library } from "@fortawesome/fontawesome-svg-core";
 import { 
   faCodepen,
   faFreeCodeCamp,
-  faGithub,
-  faFacebookF,
-  faLinkedinIn,
-  faTwitter,
+  faGithubSquare,
+  faFacebookSquare,
+  faLinkedin,
+  faTwitterSquare,
   faPinterest,
-  faYoutube
+  faYoutubeSquare,
+  faInstagramSquare
 } from "@fortawesome/free-brands-svg-icons";
 import {
   faRss,
@@ -22,12 +23,13 @@ import {
 library.add(
   faCodepen,
   faFreeCodeCamp,
-  faGithub,
-  faFacebookF,
-  faLinkedinIn,
-  faTwitter,
+  faGithubSquare,
+  faFacebookSquare,
+  faLinkedin,
+  faTwitterSquare,
   faPinterest,
-  faYoutube,
+  faYoutubeSquare,
+  faInstagramSquare,
   faRss,
   faAngleUp,
   faAngleDoubleRight,

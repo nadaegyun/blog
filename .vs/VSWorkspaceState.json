@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\content",
-    "\\content\\pages",
-    "\\content\\posts",
-    "\\content\\styles",
     "\\data",
     "\\src",
-    "\\src\\cms",
-    "\\src\\cms\\preview-templates",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\Icons",
+    "\\src\\layout",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\components\\Post\\PostDate.jsx",
+  "SelectedNode": "\\src\\components\\Icons\\FontAwesome.jsx",
   "PreviewInSolutionExplorer": false
 }
