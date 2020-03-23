@@ -5,64 +5,54 @@ description: "This is a description on About"
 slug: "about"
 ---
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+> A boy dreaming establishing an electronic company making a radio such as SONY and AIWA decided to make a company CI when he was a high school student who had a big interest in philosophy. He thought the company CI should look like our life. Birth, Living, and death.
+> It was after class in the class room he just wrote "I was born and I live and I will die."
+> He made it as I3A2BLD and decided to study in electronics in the university.
+> Time goes by the boy became middle-aged. What now he can do and what he accomplished?
 
-## Sedisti civiliter
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
-obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
-ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
-animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
-*Talibus ausis*.
+## About me
+Live in South Korea   
+Looking for new things that can make me passionate    
+Dislike grey but not black and white
 
-## Vultusque subsequitur Pallas regis datis inde animaque
 
-At securim cautum capitis, creatos sanguinis turbant iam concita videor, edere.
-Alis genas rudis felix quas **longum** suorum manu ante prima **usque**. Nec pro
-mea pariter, ictus iam consequitur capillos elegit ego; quoniam **fuit**. Aether
-Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
+## Education
+Majored in Materials Engineering and Business 
+   
 
-```php
-    urlLinkedin.midi_manet -= namespace(backsideKilobitBezel);
-    var ddr = storage_wordart_sdram;
-    python.raw_backlink = rfid_load - 4;
-    kibibyte *= cdnThumbnailUri;
-```
+## Programs
+MS office, MS Project, Mindmanager  
+ClearQuest, ClearCase, Doors, JIRA, MKS  
+C, Python, Linux, Markdown, GIT     
+Jykell, Gatsby   
 
-## Fortis dextrae humo limina Tempus singultibus illa
 
-Nate muros orbe [patris](http://debebuntilla.org/res-ego) rigent, nec tumida,
-pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
-sociorum: pars est, qualesque spes factum terris. Custodia sum animumque; iubet
-in pulvere carus, relinquunt incitat. Aliis quo tribus, vertice cesserunt
-vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
-quam etiamnunc. Puraque [repetitque](http://mihi-aiax.io/suaferunt.aspx),
-funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
-ergo firmat albentia verba casuque.
+## Recent interests and learning
+- Gatsby and CMS
+- Linux
+- Gatsby, CMS, GraphQL
 
-```perl
-    if (lion_vdu + vrml_upnp - redundancyAccessPharming) {
-        driveProcessor = floatingWord(commerceDockRestore(database));
-    } else {
-        partition_source_thunderbolt = -2 + tokenStateArchive /
-                teraflops_gigahertz;
-    }
-    exabytePhpMacintosh -= graphic_cycle(expression, memory(ideFatMatrix,
-            controlInboxMode), 50) + -3;
-    buffer_apple_hdmi += viralSync + internetDigital / tweak_perl_expansion(
-            masterNullFloating + vdu, software_play);
-```
 
-## Nati expugnacior nympha milia nascuntur amico
+##Interest
+- Early adapter
+- Planning
+- IoT
+- Own business
+- Dream come true
+- Drone
 
-Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
-sunt florem.
 
-Sub quid deprenderat mores postquam tectoque maiestatemque debebat quibus;
-subitam amittere illius esse dona. Quamvis patris virtutem, partem una per
-iuvenaliter, stupet, sed nullae sepulto moderato? Nec phaedimus aequoris dixit.
-Hic bis parenti: e petunt satis.
+## Work Experience
+Experienced as engineer and project manager in automotive since 2003   
+
+- Chassis system (Electronic Braking system and Driver Assistance system)
+- Battery system (Lithium-ion cell and Battery management system)   
+- Powertrain system (Diesel engine and driveline)   
+- Multimdedia system (third-party software integration and connectivity system) 
+  
+Any interest, visit to my [Linkedin](https://www.linkedin.com/in/daegyun-na-86920993/)
+
+
+## My target in my life
+Early retire in my-50th-age and enjoy my life with following

@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\images",
     "\\content\\pages",
     "\\content\\styles",
+    "\\data",
     "\\src",
     "\\src\\components",
     "\\src\\components\\Header",
     "\\src\\templates",
     "\\src\\utils"
   ],
-  "SelectedNode": "\\data\\SiteConfig.js",
+  "SelectedNode": "\\content\\pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
