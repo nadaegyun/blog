@@ -1,15 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\content",
+    "\\content\\images",
+    "\\content\\pages",
+    "\\content\\styles",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\MainContainer",
-    "\\src\\components\\Navigation",
-    "\\src\\components\\Page",
-    "\\src\\components\\PostListing",
-    "\\src\\layout",
-    "\\src\\pages",
-    "\\src\\pages\\blog"
+    "\\src\\components\\Header",
+    "\\src\\templates",
+    "\\src\\utils"
   ],
   "SelectedNode": "\\data\\SiteConfig.js",
   "PreviewInSolutionExplorer": false
