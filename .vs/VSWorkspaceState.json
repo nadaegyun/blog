@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Icons",
+    "\\src\\components\\MainContainer",
+    "\\src\\components\\Navigation",
+    "\\src\\components\\Page",
+    "\\src\\components\\PostListing",
     "\\src\\layout",
-    "\\src\\pages"
+    "\\src\\pages",
+    "\\src\\pages\\blog"
   ],
-  "SelectedNode": "\\src\\components\\Icons\\FontAwesome.jsx",
+  "SelectedNode": "\\data\\SiteConfig.js",
   "PreviewInSolutionExplorer": false
 }
