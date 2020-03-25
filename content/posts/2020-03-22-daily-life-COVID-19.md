@@ -2,7 +2,7 @@
 
 template: "post"
 title: "Minimum budget to enjoy life"
-cover: "../images/20200322-daily-life-COVID-19.png"
+cover: "../images/thumb_20200324.jpg"
 date: "2020-03-22"
 slug: "Daily life 22.03.2020"
 keywords: "COVID-19"
@@ -13,8 +13,10 @@ tags:
 language: Korean
 
 ---
+>
+> 코로나바이러스로 인하여 회사생활도 개인생활도 모든게 변하였다.  
 
-> 코로나바이러스로 인하여 회사생활도 개인생활도 모든게 변하였.
+
 
 ## 어떻게 살고 싶은가?
 본인에게 "어떻게 살고 싶은가?" 라고 질문을 해보라. 중학교 쯔음 부터 생각해왔던 것 같다. 어떻게 살아야 하나... 정의롭게, 올바르게, 어떤 가치관으로 살아야 하나...
@@ -38,4 +40,5 @@ language: Korean
 - 로또 (1등 당첨금이 세금 내고 10억 정도...)
 - 스마트팜 (딸기, 파프리카, 버섯....)
 - 세차장
-- 피고용주
+
+

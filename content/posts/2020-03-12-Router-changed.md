@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: "Router change"
-cover: "../images/placeholder-660x400-344359.png"
+cover: "../images/thumb_20200324.jpg"
 date: "2020-03-12"
 slug: "Router change"
 keywords: "Ubiquiti security gateway"

@@ -23,7 +23,7 @@ const config = {
   postOnDate: "Posted on",
   // Use for comment
   lazyLoadComments: false,
-    disqusShortname: "daegyun", // Disqus shortname.
+  disqusShortname: "daegyun", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
   numberLoadmore: 6,
@@ -52,8 +52,8 @@ const config = {
   // Use for Google custom search
   searchWidgetTitle: "Looking for?",
   searchWidgetPlaceHolder: "Enter keyword",
-  searchEngineID: "",
-  hasSearch: false,
+  searchEngineID: "010356671340023228016:gikute0haba",
+  hasSearch: true,
   // Use for links widget
   sidebarSticky: true,
   sidebarLinks: [
@@ -85,7 +85,6 @@ const config = {
     { label: "Photo", url: "/photo" },
     { label: "About", url: "/about" },
     { label: "Contact", url: "/contact" },
-    { label: "Search", url: "/search" },
   ],
   // Use for footer
     socialLinks: [
