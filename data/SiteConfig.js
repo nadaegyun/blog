@@ -60,7 +60,7 @@ const config = {
     {
       label: "Round Angular",
        url: "https://roundangular.github.io"
-      }
+      },
    {
       label: "I3A2BLD",
        url: "https://i3a2bld.github.io"
