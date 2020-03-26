@@ -78,9 +78,9 @@ const config = {
   userLinks: [
       {
          label: "Email",
-      url: "mailto:daegyun.na@gmail.com",
-      iconClassName: "far envelope"
-      }
+         url: "mailto:daegyun.na@gmail.com",
+         iconClassName: "far envelope"
+      },
       {
           label: "Facebook",
           url: "https://www.facebook.com/daegyun.na.5",
