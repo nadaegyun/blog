@@ -22,7 +22,7 @@ const config = {
   postInCategories: "",
   postOnDate: "Posted on",
   // Use for comment
-  lazyLoadComments: false,
+  lazyLoadComments: true,
   disqusShortname: "daegyun", // Disqus shortname.
   btnLoadComments: "Load comments",
   // Use for home page
@@ -57,10 +57,14 @@ const config = {
   // Use for links widget
   sidebarSticky: true,
   sidebarLinks: [
-    // {
-    //   label: "Complete JavaScript",
-    //   url: "https://completejavascript.com/"
-    // }
+    {
+      "Round Angular",
+       url: "https://roundangular.github.io"
+      }
+   {
+      "I3A2BLD",
+       url: "https://i3a2bld.github.io"
+      }
   ],
   // Use for user info
   userName: "Daegyun", // Username to display in the author segment.
@@ -72,11 +76,41 @@ const config = {
     "Project Manager in automotive, Lover to learn new", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
-    {
-      label: "Website",
-      url: "https://github.com/nadaegyun",
-      iconClassName: "fas globe"
-    }
+      {
+         label: "Email",
+      url: "mailto:daegyun.na@gmail.com",
+      iconClassName: "far envelope"
+      }
+      {
+          label: "Facebook",
+          url: "https://www.facebook.com/daegyun.na.5",
+          iconClassName: "fab facebook-square"
+      },
+      {
+          label: "Twitter",
+          url: "https://twitter.com/roundangular",
+          iconClassName: "fab twitter-square"
+      },
+      {
+          label: "Linkedin",
+          url: "https://www.linkedin.com/in/daegyun-na-86920993/",
+          iconClassName: "fab linkedin"
+      },
+      {
+          label: "Instagram",
+          url: "https://www.instagram.com/daegyun_na/",
+          iconClassName: "fab instagram-square"
+      },
+      {
+          label: "Youtube",
+          url: "https://www.youtube.com/channel/UC0yValXPtImjTQ8_6Z0Ha4Q?view_as=subscriber",
+          iconClassName: "fab youtube-square"
+      },
+      {
+          label: "GitHub",
+          url: "https://github.com/nadaegyun",
+          iconClassName: "fab github-square"
+      }
   ],
   // Use for navigation
   navTitle: "Round Angular",
@@ -90,7 +124,6 @@ const config = {
     socialLinks: [
       { 
       label: "Facebook", 
-      url: "https://www.facebook.com/daegyun.na.5", 
       url: "https://www.facebook.com/daegyun.na.5", 
       iconClassName: "fab facebook-square" 
       },
