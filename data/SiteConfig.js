@@ -58,11 +58,11 @@ const config = {
   sidebarSticky: true,
   sidebarLinks: [
     {
-      "Round Angular",
+      label: "Round Angular",
        url: "https://roundangular.github.io"
       }
    {
-      "I3A2BLD",
+      label: "I3A2BLD",
        url: "https://i3a2bld.github.io"
       }
   ],
