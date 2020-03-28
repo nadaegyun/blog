@@ -6,7 +6,7 @@ date: "2020-03-28"
 slug: "Release"
 ---
 
-![](.../images/release_pic_20200328.png)
+![](/images/release_pic_20200328.png)
 
 
 ##Blog roadmap
