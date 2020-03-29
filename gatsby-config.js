@@ -62,12 +62,12 @@ module.exports = {
       }
     },
 
-    // {
-    //   resolve: "gatsby-plugin-google-analytics",
-    //   options: {
-    //     trackingId: "UA-145861364-1" // <- your tracking ID
-    //   }
-    // },
+     {
+       resolve: "gatsby-plugin-google-analytics",
+       options: {
+         trackingId: "UA-134142894-1" // <- your tracking ID
+       }
+     },
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
